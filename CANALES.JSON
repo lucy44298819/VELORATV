@@ -1,0 +1,50 @@
+[
+{
+	"id": 1,
+	"nombre": "radio centro",
+	"categoría": "noticia",
+	"imagen": "https://static2.mytuner.mobi/media/tvos_radios/574/radio-centro-fm.e939fb1e.png",
+	"url": "https://streamlov.alsolnet.com/grupocentrobo/live/playlist.m3u8"
+},
+{
+	"id": 2,
+	"nombre": "RedAmericaTV",
+	"categoría": "peliculas",
+	"imagen": "https://i.imgur.com/qYNmeDe.png",
+	"url": "https://edge.enhdtv.com/redamerica/index.m3u8"
+},
+{
+	"id": 3,
+	"nombre": "tigoSport",
+	"categoría": "deportes",
+	"imagen": "https://i.imgur.com/6wkmgGM.png",
+	"url": "https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8"
+}
+{
+	"id": 4,
+	"nombre": "tv internacional",
+	"categoría": "noticias",
+	"imagen": "https://i.imgur.com/7c0b4Y4.png",
+	"url": "https://edge.enhdtv.com/8026/index.m3u8"
+"
+}
+
+{
+	"id": 5,
+	"nombre": "delta tv",
+	"categoría": "novelas",
+	"imagen": "https://i.imgur.com/FcciYMD.png",
+	"url": "https://st.deltaboliviainstitucion.org:3778/hybrid/play.m3u8
+"
+}
+
+{
+	"id": 6,
+	"nombre": "tigoSport",
+	"categoría": "deportes",
+	"imagen": "https://i.imgur.com/6wkmgGM.png",
+	"url": "https://dipdxjic51jcl.cloudfront.net/out/v1/81f769d780694be488d85811331c8a4f/index.m3u8"
+}
+
+
+]
